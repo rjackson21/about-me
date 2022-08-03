@@ -14,16 +14,13 @@
  *= require_self
  */
 
- body {
-    background: (11, 106, 176)
- }
 
  .project {
-    background-color: rgb(248, 214, 5);
+    background-color: rgb(238, 197, 11);
  }
 
  .project:hover {
-    background-color: rgb(243, 107, 28);
+    background-color: rgb(238, 197, 11);
  }
 
  p {
@@ -39,6 +36,10 @@
  }
 
 h1 {
+   color: rgb(11, 106, 176)
+}
+
+li {
    color: rgb(11, 106, 176)
 }
 

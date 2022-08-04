@@ -14,8 +14,23 @@
  *= require_self
  */
 
+p {
+   color: white;
+}
 
+body {
+   background-color: rgb(20, 20, 20);
+}
 
+h2 {
+   color: rgb(81,150,84)
+}
+
+li {
+   color: white;
+   list-style-type: circle;
+
+}
 
 
  
